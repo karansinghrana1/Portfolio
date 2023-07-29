@@ -17,7 +17,7 @@ This repository contains the code for my portfolio website, showcasing my work, 
 
 ## Live Website
 
-To view the live version of the portfolio website, [visit]([https://www.example.com](https://karansinghrana.netlify.app/)).
+To view the live version of the portfolio website, ([Visit](https://karansinghrana.netlify.app/)).
 
 ## How to Use
 
@@ -40,6 +40,6 @@ You can customize this portfolio website to represent your unique identity and s
 
 ## Support
 
-If you have any questions or need assistance, feel free to reach out to me at [Emil](mailto:singhkaran89621@gmail.com).
+If you have any questions or need assistance, feel free to reach out to me at [Email](mailto:singhkaran89621@gmail.com).
 
 Thank you for visiting my portfolio website!
